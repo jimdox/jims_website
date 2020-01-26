@@ -6,10 +6,18 @@ body
     color: rgb(210,210,210);
     font: normal 18px Arial, Helvetica, sans-serif;
 }
+h2
+{
+    font-size: 24px;
+    text-align:Left;
+    margin: 9px;
+}
 
 div
 {
     text-align:center;
+    background-color: #292929;
+    padding: 9px;
 }
 
 #menu_bar a
@@ -17,7 +25,7 @@ div
     padding: 9px;
     font-weight:bold;
     text-decoration: none;
-    background-color: #313131;
+    background-color: #252525;
 }
 
 #menu_bar a:link
@@ -25,7 +33,7 @@ div
     
     color:#F1F1F1;
     text-decoration: none;
-    background-color: #313131;
+    background-color: #252525;
 
 
 }
@@ -34,7 +42,7 @@ div
 {
     color:#F1F1F1;
     text-decoration: none;
-    background-color: #313131;
+    background-color: #252525;
 
 }
 
@@ -47,4 +55,10 @@ img
     margin: 4px;
     border-color: green;
 
+}
+
+p
+{   
+    padding: 4px;
+    margin: 9px;
 }
