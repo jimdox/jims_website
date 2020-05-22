@@ -35,6 +35,8 @@ h3
     font-family: 'Roboto Mono', monospace;
     font-size: 16px;
     margin-bottom: 1%;
+    margin-top: -0.1%;
+
     margin-left: 5%;
     width: 400px;
 
@@ -74,7 +76,7 @@ a:visited
 #menu_bar
 {
     text-align:left;
-    text-indent: 7.0%;
+    text-indent: 10.0%;
     background-color: #923B2B;
     padding: 6px;
 }
