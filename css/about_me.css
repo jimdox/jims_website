@@ -40,6 +40,31 @@ h3
 
 }
 
+#contact_links a:link
+{
+    color:rgb(171, 80, 69);
+    text-decoration: none;
+}
+
+#contact_links a:visited
+{
+    color:rgb(171, 80, 69);
+    text-decoration: none;
+}
+
+a:link
+{
+    color:rgb(171, 80, 69);
+    text-decoration: none;
+}
+
+a:visited
+{
+    color:rgb(171, 80, 69);
+    text-decoration: none;
+}
+
+
 #resume_region
 {
     margin-top: 0%;

@@ -31,6 +31,7 @@ h3
     width: 900px;
 }
 
+
 #menu_bar
 {
     text-align:center;
@@ -80,12 +81,37 @@ h3
     font-size: 16px;
     font-family: 'Roboto Mono', monospace;
     font-weight:normal;
-    background-color: #252525;
+    background-color: #232323;
     border-radius: 5px;
     
     margin: 185px 10px 5px -22%;
 
 }
+
+#contact_links a:link
+{
+    color:rgb(171, 80, 69);
+    text-decoration: none;
+}
+
+#contact_links a:visited
+{
+    color:rgb(171, 80, 69);
+    text-decoration: none;
+}
+
+a:link
+{
+    color:rgb(171, 80, 69);
+    text-decoration: none;
+}
+
+a:visited
+{
+    color:rgb(171, 80, 69);
+    text-decoration: none;
+}
+
 
 
 img
@@ -117,7 +143,6 @@ p
     font-weight: normal;
     font-size: 17px;
 
-    border: 2px solid #313131; 
     border-radius:8px;
     background-color: #232323;
 }
