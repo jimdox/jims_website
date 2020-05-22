@@ -73,9 +73,10 @@ a:visited
 
 #menu_bar
 {
-    text-align:center;
+    text-align:left;
+    text-indent: 7.0%;
     background-color: #923B2B;
-    padding: 5px;
+    padding: 6px;
 }
 
 #menu_bar a
